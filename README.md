@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @class-svebus
 - 👀 I’m interested in programming on web...
 - 🌱 I’m currently learning to code something efficiently.
-- 💞️ I’m looking to collaborate on javascript repos
+- 💞️ I’m looking to collaborate on javascript repos.
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I make a lot of mess in code.
 
 <!---
